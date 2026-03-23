@@ -1,4 +1,5 @@
 ## Hi there 👋
+I am Rhythm, a sophomore pursuing Cybersecurity, Cloud & DevOps. Nothing Fancy right now :)
 
 <!--
 **Rhythm1337/Rhythm1337** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
